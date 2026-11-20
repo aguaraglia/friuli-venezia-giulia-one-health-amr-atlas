@@ -1,0 +1,103 @@
+{
+  "schema_version": "1.0",
+  "edition": "fvg_amr_atlas",
+  "selection_note": "Selezione curata e aggiornata il 2026-11-20: studi regionali o locali con collegamento territoriale esplicito al Friuli Venezia Giulia (titolo/abstract, o testo integrale open access per i casi dubbi). L'afferenza degli autori da sola non basta. Esclusi per ora gli studi di sola resistenza antifungina e ai biocidi (decisione di ambito aperta). Non equivale a una revisione sistematica e gli studi locali non sono trasformati in stime regionali.",
+  "records": [
+    {
+      "id": "pubmed_41599081",
+      "year": 2026,
+      "title": "A Two-Year Study on Swifts (Apus spp.) as Bioindicators of Environmental Antimicrobial Resistance Within a One Health Framework.",
+      "authors": "Esposito E et al.",
+      "journal": "Pathogens",
+      "scope": "wildlife_amr",
+      "geographic_link": "Trieste (centro di recupero fauna selvatica 'Liberi di Volare'). Scala: comune. Luogo verificato sul testo integrale.",
+      "pmid": "41599081",
+      "doi": "10.3390/pathogens15010097",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/41599081/"
+    },
+    {
+      "id": "pubmed_42792026",
+      "year": 2026,
+      "title": "Carbapenem-Sparing Antimicrobial Stewardship in Internal Medicine: A Prospective Quasi-Experimental Before-and-After Pilot Implementation Study.",
+      "authors": "Di Girolamo FG et al.",
+      "journal": "Antibiotics (Basel)",
+      "scope": "antimicrobial_stewardship",
+      "geographic_link": "Ospedale di Cattinara (Azienda Sanitaria Universitaria Giuliano Isontina, Trieste), due reparti di Medicina interna. Scala: struttura nominata. Luogo verificato sul testo integrale.",
+      "pmid": "42792026",
+      "doi": "10.3390/antibiotics15090876",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/42792026/"
+    },
+    {
+      "id": "pubmed_38752207",
+      "year": 2024,
+      "title": "Time is running out. No excuses to delay implementation of antimicrobial stewardship programmes: impact, sustainability, resilience and efficiency through an interrupted time series analysis (2017-2022).",
+      "authors": "Del Fabro G et al.",
+      "journal": "JAC Antimicrob Resist",
+      "scope": "antimicrobial_stewardship",
+      "geographic_link": "Provincia di Pordenone (area sanitaria ASFO: ospedale hub Santa Maria degli Angeli e principale spoke). Scala: provincia. Luogo verificato sul testo integrale.",
+      "pmid": "38752207",
+      "doi": "10.1093/jacamr/dlae072",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/38752207/"
+    },
+    {
+      "id": "pubmed_30597175",
+      "year": 2019,
+      "title": "Monitoring healthcare-associated infections and antimicrobial use at regional level through repeated point prevalence surveys: what can be learnt?",
+      "authors": "Arnoldo L et al.",
+      "journal": "J Hosp Infect",
+      "scope": "human_antimicrobial_use",
+      "geographic_link": "Friuli Venezia Giulia (tutti gli ospedali per acuti, PPS ECDC 2011-2017). Scala: regione. Luogo verificato sul testo integrale.",
+      "pmid": "30597175",
+      "doi": "10.1016/j.jhin.2018.12.016",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/30597175/"
+    },
+    {
+      "id": "pubmed_31881675",
+      "year": 2019,
+      "title": "Do Dairy Farming Systems Differ in Antimicrobial Use?",
+      "authors": "Zuliani A et al.",
+      "journal": "Animals (Basel)",
+      "scope": "veterinary_amr",
+      "geographic_link": "Friuli Venezia Giulia (allevamenti da latte di montagna e di pianura 'MS' e 'LS', non localizzati). Scala: regione. Luogo verificato sul testo integrale.",
+      "pmid": "31881675",
+      "doi": "10.3390/ani10010047",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/31881675/"
+    },
+    {
+      "id": "pubmed_31888282",
+      "year": 2019,
+      "title": "Introduction of NGS in Environmental Surveillance for Healthcare-Associated Infection Control.",
+      "authors": "Comar M et al.",
+      "journal": "Microorganisms",
+      "scope": "healthcare_amr",
+      "geographic_link": "IRCCS Burlo Garofolo, Trieste (superfici ospedaliere). Scala: struttura nominata. Luogo verificato sul testo integrale.",
+      "pmid": "31888282",
+      "doi": "10.3390/microorganisms7120708",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/31888282/"
+    },
+    {
+      "id": "pubmed_28265870",
+      "year": 2017,
+      "title": "Correlation between antibiotic consumption and resistance of bloodstream bacteria in a University Hospital in North Eastern Italy, 2008-2014.",
+      "authors": "Mascarello M et al.",
+      "journal": "Infection",
+      "scope": "healthcare_amr",
+      "geographic_link": "Ospedale di Cattinara (Azienda Sanitaria Universitaria Giuliano Isontina, Trieste) (Azienda ospedaliero-universitaria di Trieste 2008-2014). Scala: struttura nominata. Luogo verificato sul testo integrale.",
+      "pmid": "28265870",
+      "doi": "10.1007/s15010-017-0998-z",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/28265870/"
+    },
+    {
+      "id": "pubmed_24766037",
+      "year": 2015,
+      "title": "Prescription of systemic antibiotics during pregnancy in primary care in Friuli Venezia Giulia, Northeastern Italy.",
+      "authors": "Valent F et al.",
+      "journal": "J Matern Fetal Neonatal Med",
+      "scope": "human_antimicrobial_use",
+      "geographic_link": "Friuli Venezia Giulia (tutte le donne residenti che hanno partorito nel 2011). Scala: regione. Luogo verificato sul testo integrale.",
+      "pmid": "24766037",
+      "doi": "10.3109/14767058.2014.906572",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/24766037/"
+    }
+  ]
+}

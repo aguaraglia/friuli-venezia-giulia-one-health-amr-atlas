@@ -1,0 +1,48 @@
+{
+ "schema_version": "1.0",
+ "edition": "fvg_amr_atlas",
+ "id": "arpa_fvg_ecoscienza_2025_reflui",
+ "title": "ARPA FVG - progetto pilota AMR nelle acque reflue e superficiali (2024-2025)",
+ "publisher": "ARPA Friuli Venezia Giulia (articolo pubblicato su Ecoscienza, rivista di Arpae Emilia-Romagna)",
+ "citation": "Marotta A., Briguglio S., Gelao V., Bazzichetto M., Muscia S., Felice A., Minocci M. (Laboratorio Arpa Friuli Venezia Giulia). «Studi innovativi di Arpa FVG sulle acque reflue urbane». Ecoscienza, rivista di Arpae Emilia-Romagna, n. 3, anno 2025, pp. 28-30.",
+ "source_url": "https://aggiornati.arpae.it/it/ecoscienza/numeri-ecoscienza/anno-2025/numero-3-anno-2025/i-laboratori-per-l-ambiente/studi_innovativi_sulle_acue_reflue_arpa_fvg_-es2025-03.pdf",
+ "license": "CC BY-NC-SA 4.0 (colophon di Ecoscienza, verificato sullo stesso numero 3/2025 per l'edizione Valle d'Aosta: «Tutti gli articoli, se non altrimenti specificato, sono rilasciati con licenza Creative Commons http://creativecommons.org/licenses/by-nc-sa/4.0/»)",
+ "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+ "attribution": "Fonte: Laboratorio Arpa FVG, «Studi innovativi di Arpa FVG sulle acque reflue urbane», Ecoscienza 3/2025, pp. 28-30, CC BY-NC-SA 4.0. Sintesi e riorganizzazione a cura di CodexVitae ETS.",
+ "share_alike_note": "Questo file è un'opera derivata (sintesi dei risultati) ed è distribuito con la stessa licenza CC BY-NC-SA 4.0, solo per usi non commerciali. CodexVitae ETS è un ente del terzo settore senza scopo di lucro (decisione di Alex, 2026-11-20).",
+ "geography": "Friuli Venezia Giulia",
+ "geography_level": "regione",
+ "mapped": false,
+ "geography_note": "I depuratori non sono nominati nell'articolo: nessun punto in mappa, scheda regionale.",
+ "records": [
+  {
+   "period": "2024",
+   "matrix": "acque in ingresso e in uscita di cinque depuratori (scelti tra quelli che ricevono anche scarichi ospedalieri), acque superficiali a valle e circa cento scarichi di altri impianti",
+   "method": "protocollo OMS Tricycle (E. coli resistente al cefotaxime), MALDI-TOF con conferma fenotipica",
+   "target": "E. coli resistente alle cefalosporine di terza generazione",
+   "result_text": "Tendenza generale all'abbattimento della carica di E. coli resistenti nei depuratori, con riduzioni anche di diversi ordini di grandezza in uscita rispetto all'ingresso. Valori numerici non riportati."
+  },
+  {
+   "period": "2024",
+   "matrix": "come sopra",
+   "method": "RT-PCR multiplex per otto classi di geni (carbapenemi, vancomicina, cefalosporine) sulla flora totale; NGS",
+   "target": "geni di resistenza",
+   "result_text": "La maggior parte dei campioni è risultata positiva per KPC, CTX-M e OXA-48; con NGS identificati 137 geni e due varianti. Numeri di campioni positivi non riportati."
+  },
+  {
+   "period": "2025",
+   "matrix": "ulteriori cinque impianti di depurazione",
+   "result_text": "Analisi estese ad altri cinque impianti; molecolare orientata anche alla quantificazione. Risultati non ancora riportati."
+  }
+ ],
+ "caveats": [
+  "Dato qualitativo (presenza o tendenza), non prevalenza né carica.",
+  "Impianti scelti tra quelli che ricevono scarichi ospedalieri: non rappresentativi di tutta la regione.",
+  "Nessun downscaling a comune o impianto."
+ ],
+ "snapshot": {
+  "local_path": "box:/workspace/fvg/src/ecoscienza_2025_3_arpafvg.pdf",
+  "sha256": "eb85ba0dc26f929f22148d3d1a845760446a3cf884b64c5839dbda898a1e5b42",
+  "acquired_at": "2026-11-20"
+ }
+}

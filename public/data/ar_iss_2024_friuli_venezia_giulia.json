@@ -1,0 +1,80 @@
+{
+ "schema_version": "1.0",
+ "edition": "fvg_amr_atlas",
+ "source_id": "ar_iss_2024_friuli_venezia_giulia",
+ "period": 2024,
+ "geography": "Friuli Venezia Giulia",
+ "scope": "isolati da sangue e liquor; sorveglianza AR-ISS",
+ "coverage": {
+  "value_percent": 100.0,
+  "denominator": "giornate di degenza per ricoveri ordinari per acuti; SDO dimessi 2023",
+  "limitations": "non corregge per gravità; considera i laboratori che hanno inviato emocolture e/o liquor; il FVG partecipa con la propria rete regionale (laboratori ASFO Pordenone, ASUGI Trieste, ASUFC Udine); serie regionale disponibile dal 2017 (2015-2016 senza dati); per CRAS gli isolati sono meno di 20"
+ },
+ "indicators": [
+  {
+   "code": "MRSA",
+   "pathogen": "Staphylococcus aureus",
+   "resistance": "meticillina",
+   "isolates": 446,
+   "resistant": 89,
+   "percent": 20.0,
+   "ci95": "16.3-24.0"
+  },
+  {
+   "code": "VRE-faecium",
+   "pathogen": "Enterococcus faecium",
+   "resistance": "vancomicina",
+   "isolates": 105,
+   "resistant": 24,
+   "percent": 22.9,
+   "ci95": "15.2-32.1"
+  },
+  {
+   "code": "CREC",
+   "pathogen": "Escherichia coli",
+   "resistance": "cefalosporine di terza generazione",
+   "isolates": 1272,
+   "resistant": 211,
+   "percent": 16.6,
+   "ci95": "14.6-18.8"
+  },
+  {
+   "code": "CRKP",
+   "pathogen": "Klebsiella pneumoniae",
+   "resistance": "carbapenemi",
+   "isolates": 388,
+   "resistant": 27,
+   "percent": 7.0,
+   "ci95": "4.6-10.0"
+  },
+  {
+   "code": "CRPA",
+   "pathogen": "Pseudomonas aeruginosa",
+   "resistance": "carbapenemi",
+   "isolates": 209,
+   "resistant": 15,
+   "percent": 7.2,
+   "ci95": "4.1-11.6"
+  },
+  {
+   "code": "CRAS",
+   "pathogen": "Acinetobacter species",
+   "resistance": "carbapenemi",
+   "isolates": 13,
+   "resistant": 3,
+   "percent": 23.1,
+   "ci95": "5.0-53.8",
+   "note": "meno di 20 isolati"
+  }
+ ],
+ "trend_note": "Serie 2017-2024 nell'Appendice A: MRSA 25,1% (2018) -> 20,0% (2024); CREC 15,5% (2018) -> 16,6% (2024); CRKP 8,9% (2018) -> 7,0% (2024).",
+ "license": "CC BY 4.0 (Note legali ISS, valide anche per EpiCentro: https://www.iss.it/contatti ; https://www.epicentro.iss.it/chi-siamo/disclaimer)",
+ "source": {
+  "title": "AR-ISS: sorveglianza nazionale dell Antibiotico-Resistenza. Dati 2024",
+  "report": "RIS-5/2025",
+  "table": "Tabella 1 (copertura) e Appendice A, Regione Friuli Venezia Giulia (p. 44 a stampa, p. 52 del PDF)",
+  "url": "https://www.epicentro.iss.it/antibiotico-resistenza/ar-iss/RIS-5_2025.pdf",
+  "acquired_at": "2026-11-19",
+  "sha256": "50174DC846E19C6EAD2EA4D55982FC098487251A5EDAB8D484D6101B31482F0F"
+ }
+}
