@@ -1,0 +1,48 @@
+{
+ "schema_version": "1.0",
+ "edition": "fvg_amr_atlas",
+ "records": [
+  {
+   "id": "ar_iss_2024_friuli_venezia_giulia",
+   "title": "AR-ISS 2024 - Friuli Venezia Giulia",
+   "publisher": "Istituto Superiore di Sanita",
+   "evidence_type": "human_amr_regional",
+   "geography": "Friuli Venezia Giulia",
+   "period": "2024",
+   "source_url": "https://www.epicentro.iss.it/antibiotico-resistenza/ar-iss/RIS-5_2025.pdf",
+   "data_file": "public/data/ar_iss_2024_friuli_venezia_giulia.json",
+   "publication_status": "public_approved",
+   "license": "CC BY 4.0",
+   "note": "Copertura 100,0%, rete regionale. MRSA 20,0% (89/446), VRE-faecium 22,9% (24/105), CREC 16,6% (211/1.272), CRKP 7,0% (27/388), CRPA 7,2% (15/209), CRAS 23,1% (3/13). CRAS con meno di 20 isolati; nessun downscaling."
+  },
+  {
+   "id": "aifa_opendata_2024_friuli_venezia_giulia_j01",
+   "title": "AIFA Open Data 2024 - Friuli Venezia Giulia, antibatterici J01",
+   "publisher": "Agenzia Italiana del Farmaco",
+   "evidence_type": "human_antimicrobial_use",
+   "geography": "Friuli Venezia Giulia",
+   "period": "2024",
+   "source_url": "https://www.aifa.gov.it/documents/20142/847578/dati2024_04.12.2025.csv",
+   "data_file": "public/data/aifa_opendata_2024_friuli_venezia_giulia_j01.json",
+   "publication_status": "public_approved",
+   "license": "CC BY 4.0",
+   "note": "Convenzionata 944.138 confezioni, 7,54 milioni di euro; acquisti diretti 634.020 confezioni, 7,26 milioni di euro. Consumo, non resistenza."
+  },
+  {
+   "id": "arpa_fvg_ecoscienza_2025_reflui",
+   "title": "ARPA FVG - AMR nelle acque reflue e superficiali (progetto pilota 2024-2025)",
+   "publisher": "ARPA Friuli Venezia Giulia (Ecoscienza 3/2025)",
+   "evidence_type": "environmental_amr_regional",
+   "geography": "Friuli Venezia Giulia",
+   "period": "2024-2025",
+   "source_url": "https://aggiornati.arpae.it/it/ecoscienza/numeri-ecoscienza/anno-2025/numero-3-anno-2025/i-laboratori-per-l-ambiente/studi_innovativi_sulle_acue_reflue_arpa_fvg_-es2025-03.pdf",
+   "data_file": "public/data/arpa_fvg_ecoscienza_2025_reflui.json",
+   "publication_status": "public_approved",
+   "license": "CC BY-NC-SA 4.0",
+   "note": "Cinque depuratori non nominati (con scarichi ospedalieri) nel 2024, altri cinque nel 2025: E. coli resistenti in calo dall'ingresso all'uscita; maggior parte dei campioni positiva per KPC, CTX-M, OXA-48; 137 geni con NGS. Dato qualitativo, nessun punto in mappa.",
+   "attribution": "Fonte: Laboratorio Arpa FVG, «Studi innovativi di Arpa FVG sulle acque reflue urbane», Ecoscienza 3/2025, pp. 28-30, CC BY-NC-SA 4.0. Sintesi e riorganizzazione a cura di CodexVitae ETS.",
+   "share_alike_note": "Questo file è un'opera derivata (sintesi dei risultati) ed è distribuito con la stessa licenza CC BY-NC-SA 4.0, solo per usi non commerciali. CodexVitae ETS è un ente del terzo settore senza scopo di lucro (decisione di Alex, 2026-11-20).",
+   "mapped": false
+  }
+ ]
+}

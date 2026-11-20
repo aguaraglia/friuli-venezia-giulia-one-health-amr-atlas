@@ -1,0 +1,58 @@
+{
+ "cattinara": {
+  "query": "Ospedale di Cattinara, Trieste",
+  "status": 200,
+  "response": [
+   {
+    "place_id": 78910287,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 732678830,
+    "lat": "45.6335651",
+    "lon": "13.8275253",
+    "category": "amenity",
+    "type": "hospital",
+    "place_rank": 30,
+    "importance": 0.1570394422394589,
+    "addresstype": "amenity",
+    "name": "Ospedale di Cattinara",
+    "display_name": "Ospedale di Cattinara, 447, Strada di Fiume, Cattinara / Katinara, Servola-Chiarbola-Valmaura-Borgo San Sergio, Longera / Lonjer, Trieste, Friuli-Venezia Giulia, 34149, Italia",
+    "boundingbox": [
+     "45.6321022",
+     "45.6350821",
+     "13.8234065",
+     "13.8304769"
+    ]
+   }
+  ],
+  "requested_at": "2026-11-20T01:30:25+0100"
+ },
+ "burlo": {
+  "query": "Burlo Garofolo, Trieste",
+  "status": 200,
+  "response": [
+   {
+    "place_id": 79320870,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 791376787,
+    "lat": "45.6359387",
+    "lon": "13.7842799",
+    "category": "amenity",
+    "type": "hospital",
+    "place_rank": 30,
+    "importance": 0.13618373728802152,
+    "addresstype": "amenity",
+    "name": "IRCCS Materno Infantile Burlo Garofolo",
+    "display_name": "IRCCS Materno Infantile Burlo Garofolo, Via dell'Istria, Maddalena, San Giacomo / Sveti Jakob, Barriera Vecchia-San Giacomo, Trieste, Friuli-Venezia Giulia, 34137, Italia",
+    "boundingbox": [
+     "45.6344810",
+     "45.6374028",
+     "13.7832801",
+     "13.7863054"
+    ]
+   }
+  ],
+  "requested_at": "2026-11-20T01:30:27+0100"
+ }
+}
